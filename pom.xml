@@ -36,7 +36,7 @@
     <spark.version>1.6.0</spark.version>
     <lucene.version>5.5.0</lucene.version>
     <guava.version>18.0</guava.version>
-    <snappy.version>1.1.1.7</snappy.version>
+    <snappy.version>1.1.10.9</snappy.version>
     <joda.version>2.5</joda.version>
     <scoverage.plugin.version>1.1.1</scoverage.plugin.version>
     <hadoop.deps.scope>compile</hadoop.deps.scope>
